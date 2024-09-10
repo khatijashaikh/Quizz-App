@@ -3,7 +3,8 @@
   padding: 0;
 }
 body{
-  height: 100%;
+  height: auto;
+  margin-bottom: 40px;
   font-family: 'poppins';
   background-image: linear-gradient(#D8C7FF, #19006C);
 }
